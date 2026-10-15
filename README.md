@@ -17,5 +17,5 @@ Este proyecto es la primera entrega (Hito 1) de una aplicación web para una piz
 - React
 - Vite.js
 
-
+https://github.com/eveoyarzov-code/hito1.git
 
